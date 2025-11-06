@@ -1,0 +1,8 @@
+data_mnist
+mlartifacts
+*.pth
+*.png
+.env
+minio_data
+db_data
+*.jpg
