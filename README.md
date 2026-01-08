@@ -1,4 +1,4 @@
-#ML-платформа (MLFlow + MinIO)
+# ML-платформа (MLFlow + MinIO)
 
 Старт одной командой:
 
@@ -20,4 +20,5 @@ docker compose up -d
 
 
 **Остановка:** `docker compose down`
+
 
